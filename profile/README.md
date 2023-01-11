@@ -3,30 +3,34 @@
 The ***moveOS*** comprises of a *lightweight Kernel* with supporting libraries that greatly help in developing and deploying *movable smart-objects* covering a variety of domains. Presently, the target domains include:
 
   * Electric Vehicles
-  * Smart Carriers - Ground, Over the Surface, and Submerged Vehicles, and Flying Objects
+  * Smart carriers - ground-based, over the surface, and submerged vehicles, and flying objects
   * Robots
-  * 3D Printers
-  * Other IoT and IIoT devices
+  * 3D printers
+  * IoT and IIoT devices
 
 
 &nbsp;
 
-Main purposes of the OS are:
+The main features of the OS include:
 
-  * Lightweight Deployments
-  * Energy Efficiency
-  * Real-time Responsiveness
-  * Graphical and Headless Deployments
-  * Remote Graphical / Cloud Interfaces
-  * Ready-to-use Modules
-  * ROS Integration
+  * Lightweight deployments
+  * Energy efficiency
+  * Real-time responsiveness
+  * Task and event-based software designs
+  * Natively supporting the State Machines
+  * Graphical and headless deployments
+  * Remote interfacing through stand-alone graphical or cloud-based services
+  * Ready-to-use security and other modules
+  * Low-code or no-code capabilities
+  * ROS integration
+  * High configurability
 
 
 
 &nbsp;
 
-## Run-time Environment
+## Run-time Environments
 
-The ***moveOS*** can be deployed on bare-metal devices, Windows and Linux distributions; though, its behavior can change depending on deployed environment.
+From the beginning, ***moveOS*** is intended to be deployed on bare-metal devices, Windows and Linux distributions; though, its behavior can change depending on deployed environments and underlying hardware features.
 
 
