@@ -1,6 +1,6 @@
 # moveOS
 
-The ***moveOS*** comprises of a *lightweight Kernel* with supporting libraries that greatly help in developing and deploying *movable smart-objects* covering a variety of domains. Presently, the target domains include:
+The ***[moveOS](https://github.com/move-os/moveOS)*** comprises of a *lightweight Kernel* with supporting libraries that greatly help in developing and deploying *movable smart-objects* covering a variety of domains. Presently, the target domains include:
 
   * Electric Vehicles
   * Smart carriers - ground-based, over the surface, and submerged vehicles, and flying objects
@@ -31,6 +31,6 @@ The main features of the OS include:
 
 ## Run-time Environments
 
-From the beginning, ***moveOS*** is intended to be deployed on bare-metal devices, Windows and Linux distributions; though, its behavior can change depending on deployed environments and underlying hardware features.
+From the beginning, the ***[moveOS](https://github.com/move-os/moveOS)*** is intended to be deployed on bare-metal devices, Windows and Linux distributions; though, its behavior can change depending on deployed environments and underlying hardware features.
 
 
