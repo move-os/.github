@@ -27,6 +27,6 @@ Main purposes of the OS are:
 
 ## Run-time Environment
 
-The ***moveOS*** can be deployed on bare-metal devices, Windows and Linux environments; though, its behavior can change depending on deployed environment.
+The ***moveOS*** can be deployed on bare-metal devices, Windows and Linux distributions; though, its behavior can change depending on deployed environment.
 
 
