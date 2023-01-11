@@ -4,7 +4,7 @@ The ***[moveOS](https://github.com/move-os/moveOS)*** comprises of a *lightweigh
 
   * Electric Vehicles
   * Smart carriers - ground-based, over the surface, and submerged vehicles, and flying objects
-  * Robots
+  * General and special-purpose robots
   * 3D printers
   * IoT and IIoT devices
 
