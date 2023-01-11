@@ -23,15 +23,15 @@ The main features of the OS include:
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:saxophone:&nbsp;&nbsp; *Real-time responsiveness*
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:saxophone:&nbsp;&nbsp; *Task and event-based software designs*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:saxophone:&nbsp;&nbsp; *Task and event-based designs*
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:saxophone:&nbsp;&nbsp; *Native support for State Machines*
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:saxophone:&nbsp;&nbsp; *Graphical and headless deployments*
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:saxophone:&nbsp;&nbsp; *Remote interfacing through stand-alone graphical, and cloud-based services*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:saxophone:&nbsp;&nbsp; *Remote interfacing with stand-alone graphical, and cloud-based services*
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:saxophone:&nbsp;&nbsp; *Ready-to-use security features and other modules*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:saxophone:&nbsp;&nbsp; *Ready-to-use security features and extensible modules*
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:saxophone:&nbsp;&nbsp; *Low-code and no-code facilities*
   
