@@ -1,6 +1,6 @@
 # moveOS
 
-The ***moveOS*** comprises of a *lightweight Kernel* with supporting libraries that greatly help in developing and deploying *movable / immovable smart-objects* covering diverse domains. Presently, the target domains include:
+The ***[moveOS](https://github.com/move-os/moveOS)*** comprises of a *lightweight Kernel* with supporting libraries that greatly help in developing and deploying *movable / immovable smart-objects* covering diverse domains. Presently, the target domains include:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:saxophone:&nbsp;&nbsp; *Electric Vehicles*
 
@@ -45,6 +45,6 @@ The main features of the OS include:
 
 ## Run-time Environments
 
-From the beginning, the ***moveOS*** is intended to be deployed on bare-metal devices, Windows and Linux distributions; though, its behavior can change depending on deployed environments and underlying hardware features.
+From the beginning, the ***[moveOS](https://github.com/move-os/moveOS)*** is intended to be deployed on bare-metal devices, Windows and Linux distributions; though, its behavior can change depending on deployed environments and underlying hardware features.
 
 
