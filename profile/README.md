@@ -4,7 +4,7 @@ The ***moveOS*** comprises of a *lightweight Kernel* with supporting libraries t
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:saxophone:&nbsp;&nbsp; *Electric Vehicles*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:saxophone:&nbsp;&nbsp; *Smart carriers - ground-based, over the surface, and submerged vehicles, and flying objects*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:saxophone:&nbsp;&nbsp; *Smart carriers - ground-based, over-the-surface, submerged vehicles; and flying objects*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:saxophone:&nbsp;&nbsp; *General and special-purpose robots*
 
@@ -25,19 +25,19 @@ The main features of the OS include:
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:saxophone:&nbsp;&nbsp; *Task and event-based software designs*
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:saxophone:&nbsp;&nbsp; *Natively supporting the State Machines*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:saxophone:&nbsp;&nbsp; *Native support for State Machines*
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:saxophone:&nbsp;&nbsp; *Graphical and headless deployments*
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:saxophone:&nbsp;&nbsp; *Remote interfacing through stand-alone graphical or cloud-based services*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:saxophone:&nbsp;&nbsp; *Remote interfacing through stand-alone graphical, and cloud-based services*
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:saxophone:&nbsp;&nbsp; *Ready-to-use security and other modules*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:saxophone:&nbsp;&nbsp; *Ready-to-use security features and other modules*
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:saxophone:&nbsp;&nbsp; *Low-code and no-code capabilities*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:saxophone:&nbsp;&nbsp; *Low-code and no-code facilities*
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:saxophone:&nbsp;&nbsp; *ROS integration*
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:saxophone:&nbsp;&nbsp; *High configurability*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:saxophone:&nbsp;&nbsp; *High configurability and agility*
 
 
 
