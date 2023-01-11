@@ -1,10 +1,10 @@
 # moveOS
 
-The ***moveOS*** comprises of a *lightweight Kernel* with supporting libraries that greatly help in developing and deploying *movable smart-objects* covering a variety of domains. Presently, the target domains include:
+The ***moveOS*** comprises of a *lightweight Kernel* with supporting libraries that greatly help in developing and deploying *movable / immovable smart-objects* covering diverse domains. Presently, the target domains include:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:saxophone:&nbsp;&nbsp; *Electric Vehicles*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:saxophone:&nbsp;&nbsp; *Smart carriers - ground-based, over-the-surface, submerged vehicles; and flying objects*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:saxophone:&nbsp;&nbsp; *Smart carriers - remotely operated vehicles and flying objects*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:saxophone:&nbsp;&nbsp; *General and special-purpose robots*
 
