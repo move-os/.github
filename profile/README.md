@@ -33,7 +33,7 @@ The main features of the OS include:
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:saxophone:&nbsp;&nbsp; *Ready-to-use security and other modules*
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:saxophone:&nbsp;&nbsp; *Low-code or no-code capabilities*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:saxophone:&nbsp;&nbsp; *Low-code and no-code capabilities*
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:saxophone:&nbsp;&nbsp; *ROS integration*
   
